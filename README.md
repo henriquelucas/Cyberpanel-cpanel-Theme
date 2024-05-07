@@ -31,10 +31,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 
 ## Capturas de Tela
 
-![Captura de Tela 1](https://link_para_imagem.com)
-![Captura de Tela 2](https://link_para_imagem.com)
+![Captura de Tela 1](https://i.ibb.co/j4xT6cY/Captura-de-tela-2024-05-07-121945.png)
 
 ## Licença
 
-Este tema é distribuído sob a licença [Nome da Licença]. Consulte o arquivo `LICENSE` para obter mais informações.
+Este tema é distribuído sob a licença Pública Geral GNU (GPL). Consulte o arquivo `LICENSE` para obter mais informações.
 
