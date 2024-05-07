@@ -1,6 +1,6 @@
 # Cyberpanel Theme: CPX
 
-![CPX Theme Preview](https://link_para_imagem.com)
+![CPX Theme Preview](https://i.ibb.co/j4xT6cY/Captura-de-tela-2024-05-07-121945.png)
 
 ## Descrição
 
