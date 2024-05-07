@@ -1,0 +1,80 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600 !important;
+    font-family: sans-serif;
+}
+
+#sidebar-menu {
+    background: #071a3e;
+}
+
+.divider, .nav-divider, .timeline-horizontal.timeline-box:before {
+    background: #bbbbbb12;
+}
+
+#page-sidebar ul li.header {
+    color: #fff!important;
+}
+
+#page-sidebar ul li a .glyph-icon {
+    color: #ffffff;
+}
+
+#page-content {
+    background: #f5f5f5;
+}
+
+#page-header .user-account-btn > a.user-profile .glyph-icon, .logo-bg {
+    background-color: rgb(7 26 62);
+}
+#page-header {
+    background: #fff!important;
+    border-bottom: 1px solid #eeee;
+}
+
+#header-nav-right .header-btn .glyph-icon, #header-nav-right .dropdown > a .glyph-icon {
+    color: rgb(7 26 62);
+}
+
+#header-nav-right .header-btn:hover .glyph-icon, #header-nav-right .dropdown > a:hover .glyph-icon {
+    color: rgb(25 73 163);
+}
+
+#page-sidebar ul li.sfHover > a.sf-with-ul, #page-sidebar ul li a:hover {
+    border-color: #d1d9dd00;
+}
+
+#page-sidebar ul li a:hover, #page-sidebar ul li.sfHover>a.sf-with-ul {
+    border-color: #ffffff00;
+    color: #fff;
+    font-weight: 700;
+}
+
+.btn-primary {
+    background: #071a3e;
+    border-color: #071a3e;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background: #092c6c;
+    border-color: #092c6c;
+}
+
+#sidebar-menu-item-server-ip-address {
+    background: #ffffff12!important;
+    text-align: left;
+}
+
+#sidebar-menu-item-server-ip-address span {
+color:#fff!important;
+}
+
+#header-logo .logo-content-big, .logo-content-small {
+    background: url(https://hospeda.link/logo-admin.png) left 50% no-repeat;
+    text-indent: -999em;
+    position: absolute;
+    height: 55px;
+    width: 205px;
+    left: 10px;
+    top: 40%;
+    margin-top: -17px;
+}
