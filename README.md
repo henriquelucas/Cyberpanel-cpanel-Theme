@@ -25,6 +25,11 @@ O CPX é um tema personalizado para o Cyberpanel, projetado para fornecer uma ex
 3. Ative o tema CPX nas configurações de tema do Cyberpanel.
 4. Atualize a página para ver o novo tema em ação.
 
+Outra forma é copiar o CSS e adicionar no custom css do cyberpanel
+1. Faça o login no seu servidor Cyberpanel.
+2. Vá até Design
+3. Agora cole o css copiado do repositorio em CSS Custom.
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de recebimento para melhorias, correções de bugs ou novos recursos.
